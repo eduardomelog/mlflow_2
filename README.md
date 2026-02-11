@@ -7,3 +7,5 @@
 ### python3 -m pip install "setuptools<70" "wheel<0.45"
 
 ### pip install -r requirements.txt
+
+### mkdir mlruns
